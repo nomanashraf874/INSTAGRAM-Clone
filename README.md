@@ -44,3 +44,5 @@ The following **bonus** features are implemented:
 
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
+
+https://submissions.us-east-1.linodeobjects.com/ios_university/-CPKWTVZ.gif
