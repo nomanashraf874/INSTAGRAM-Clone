@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+https://user-images.githubusercontent.com/73111863/159105592-696b6efb-f0ec-4d6c-b785-94244c9407d5.mov
+
+
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
 Time spent: **X** hours spent in total
