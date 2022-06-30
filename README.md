@@ -2,8 +2,6 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **3** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -42,7 +40,7 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past posts infinitely. (2pts)
 
 https://submissions.us-east-1.linodeobjects.com/ios_university/-CPKWTVZ.gif
