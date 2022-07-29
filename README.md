@@ -28,4 +28,7 @@ Completed functionality:
 ### Comment
 ![commentInsta](https://user-images.githubusercontent.com/73111863/181659560-c487e151-cc79-439f-b824-ccf9e1223874.gif)
 ### View
+![viewInsta](https://user-images.githubusercontent.com/73111863/181660048-2232f752-557a-43b9-9b24-9bfb4abbdc94.gif)
+### Logout
+![logout2Insta](https://user-images.githubusercontent.com/73111863/181660309-6e8fe0bc-4167-472e-a53c-2071ca40f8ad.gif)
 
