@@ -20,7 +20,4 @@ Completed functionality:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-### Part1:
-https://submissions.us-east-1.linodeobjects.com/ios_university/-CPKWTVZ.gif
-### Part2:
-https://user-images.githubusercontent.com/73111863/159105592-696b6efb-f0ec-4d6c-b785-94244c9407d5.mov
+![signUpInsta](https://user-images.githubusercontent.com/73111863/181657882-4c74a32f-ad43-4759-8d0d-0afe21518233.gif)
