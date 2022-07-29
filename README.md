@@ -25,3 +25,7 @@ Completed functionality:
 ![signInInsta](https://user-images.githubusercontent.com/73111863/181658291-c11b74e8-033b-47b8-bb5c-89524c0bf741.gif)
 ### Post
 ![post2low](https://user-images.githubusercontent.com/73111863/181659302-35a0b498-17e1-4543-9e4b-14cefeec09fb.gif)
+### Comment
+![commentInsta](https://user-images.githubusercontent.com/73111863/181659560-c487e151-cc79-439f-b824-ccf9e1223874.gif)
+### View
+
