@@ -19,5 +19,5 @@ Completed functionality:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+### Login
 ![signUpInsta](https://user-images.githubusercontent.com/73111863/181657882-4c74a32f-ad43-4759-8d0d-0afe21518233.gif)
